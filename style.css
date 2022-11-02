@@ -1,0 +1,17 @@
+html body{
+    background-image: url(img/sunset-1373171_960_720.jpg);
+    background-size: cover;
+}
+
+.test{
+    background: coral;
+    min-height: 200px;
+    min-width: 50px;
+    max-width: 100%;
+    max-height: 200px;
+}
+.test h1{
+    width: 80%;
+    background: lightblue;
+    height: 180px;
+}
